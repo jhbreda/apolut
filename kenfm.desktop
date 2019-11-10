@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=kenfm.de
+Exec=webapp-container --webappUrlPatterns=kenfm.de/* kenfm.de
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
