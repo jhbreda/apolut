@@ -9,7 +9,7 @@
             "desktop":  "kenfm.desktop"
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
