@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=kenfm
-Exec=webapp-container --webappUrlPatterns=https://kenfm.de/* https://kenfm.de
+Exec=webapp-container --webappUrlPatterns=https?://kenfm.de/* https://kenfm.de
 Icon=logo.svg
 Terminal=false
 Type=Application
