@@ -1,7 +1,7 @@
-# kenfm.de
+# apolut
 
 ## Description
-Wrapper for kenfm.de
+Wrapper for apolut
 
 ## Install 
 Use clickable to build the app.

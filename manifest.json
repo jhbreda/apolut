@@ -1,15 +1,15 @@
 {
-    "name": "kenfm.de",
-    "description": "Wrapper for kenfm",
+    "name": "apolut",
+    "description": "Wrapper for apolut",
     "architecture": "all",
-    "title": "kenfm.de",
+    "title": "apolut",
     "hooks": {
-        "kenfm": {
-            "apparmor": "kenfm.apparmor",
-            "desktop":  "kenfm.desktop"
+        "apolut": {
+            "apparmor": "apolut.apparmor",
+            "desktop":  "apolut.desktop"
         }
     },
-    "version": "1.0.4",
+    "version": "1.0.5",
     "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
