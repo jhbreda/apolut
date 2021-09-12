@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=apolut
 Exec=webapp-container --webappUrlPatterns=https?://apolut.net/* https://apolut.net
-Icon=logo.svg
+Icon=logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
